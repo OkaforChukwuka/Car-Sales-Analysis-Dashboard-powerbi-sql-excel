@@ -1,7 +1,7 @@
 
 # 🚘 Car Sales Analysis Dashboard — Power BI | SQL | Excel
 
-![Car Sales Dashboard](./Screenshot_2025-04-28_204537.jpg)
+![Car Sales Dashboard](https://github.com/OkaforChukwuka/Car-Sales-Analysis-Dashboard-powerbi-sql-excel/blob/main/Screenshot%202025-04-28%20204537.jpg?raw=true)
 
 ## 📌 Overview
 This interactive dashboard project explores vehicle sales metrics by manufacturer, transmission type, fuel type, and other KPIs. Built using Power BI, Excel, and SQL, the dashboard enables insights into consumer preferences, fuel efficiency, pricing, and tax patterns across different vehicle brands.
